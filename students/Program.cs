@@ -11,9 +11,9 @@ namespace students
 		static void Main(string[] args)
 		{
 
-			list List = new list();
+			studentslist studentlist = new studentlist();
 
-            list.Run();
+            studentlist.Run();
 
 		}
 	}
