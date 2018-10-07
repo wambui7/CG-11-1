@@ -10,6 +10,14 @@ namespace students
 	{
 		static void Main(string[] args)
 		{
+
+			list List = new list();
+
+            list.Run();
+
 		}
+	}
+	
+	
 	}
 }
